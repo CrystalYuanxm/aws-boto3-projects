@@ -98,7 +98,7 @@ export DYNAMODB_TABLE=your-table-name
 ## Run
 
 ```bash
-python save_bill.py
+python aws-boto3-projects.py
 ```
 
 ### Sample output
