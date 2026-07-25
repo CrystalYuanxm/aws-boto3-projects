@@ -110,6 +110,12 @@ Saved item
  'billNumber': Decimal('187'), 'amountDue': Decimal('42.5'),
  's3Bucket': 'your-bucket-name', 's3Key': 'bills/179f2bec-....json'}
 ```
+DYNAMODB: 
+<img width="1560" height="982" alt="image" src="https://github.com/user-attachments/assets/3ce44ad1-2d73-43da-a7b2-cca170e82329" />
+S3: 
+<img width="1576" height="953" alt="image" src="https://github.com/user-attachments/assets/9e22e689-ef7a-46be-aeed-7a4de8b371a9" />
+PyCharm - Environment Variables:
+<img width="603" height="251" alt="image" src="https://github.com/user-attachments/assets/2a6277d1-8223-4a31-bb9b-c68785653b03" />
 
 ## What I learned
 
