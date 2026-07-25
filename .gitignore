@@ -1,0 +1,12 @@
+# 绝不上传凭证
+.aws/
+*.pem
+.env
+
+# Python 环境和缓存,不需要进仓库
+__pycache__/
+*.pyc
+venv/
+S3-DynamoDB/
+mysiteS21/
+.idea/
