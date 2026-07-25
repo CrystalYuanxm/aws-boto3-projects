@@ -11,7 +11,7 @@ join them by a shared ID.
 ## Architecture
 
 ```
-                  save_bill.py (boto3)
+                  aws-boto3-projects.py (boto3)
                           |
           put_object      |      put_item / get_item
         +-----------------+------------------+
